@@ -1,4 +1,4 @@
-a = "<PROJECT-NAME-REPLACE>"
+a = "test-project3"
 
 print("This is a sample project called: " + a)
 
